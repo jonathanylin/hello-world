@@ -2,8 +2,6 @@
 First Repository
 
 Very cool edit on my first branch of the original readme file
-
-pip install graftM
-
-
-cd mkdir
+* trying out stuff
+* this is cool
+* how does it work
